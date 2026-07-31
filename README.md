@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Manikandavasan</h1>
 
 <h3 align="center">
@@ -217,4 +216,3 @@ I'm always interested in collaborating on exciting projects, learning new techno
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6A5ACD&height=120&section=footer"/>
 
 </p>
-```
